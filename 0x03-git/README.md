@@ -1,1 +1,1 @@
-In this directory i will be writing program on 0x03-GIT
+I am a good girl
